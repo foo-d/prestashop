@@ -187,4 +187,5 @@
   187 => 'PrestaShop\\Module\\Mbo\\Controller\\Admin\\ThemeCatalogController',
   188 => 'PrestaShop\\Module\\PrestashopCheckout\\Entity\\PaypalAccount',
   189 => 'PrestaShop\\Module\\PrestashopCheckout\\Entity\\PsAccount',
+  190 => 'PaypalAddons\\classes\\Form\\Controller\\AdminPayPalInstallment\\FormInstallment',
 );

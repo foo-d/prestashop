@@ -6,7 +6,7 @@
     'aliases' => 
     array (
     ),
-    'reference' => '1c53ad38d94cfec81a2bbf16b2c46c27857af474',
+    'reference' => '4d90d8f56ece3c12a37ec935b18149b95335fc24',
     'name' => 'prestashop/ps_checkout',
   ),
   'versions' => 
@@ -47,15 +47,6 @@
       ),
       'reference' => '47aaa48e27dae43d39fc1cea0ccf0d84ac1a2ba5',
     ),
-    'lcobucci/jwt' => 
-    array (
-      'pretty_version' => '3.4.1',
-      'version' => '3.4.1.0',
-      'aliases' => 
-      array (
-      ),
-      'reference' => '958a9873a63b0244a72f6e354ccc86019ee674a5',
-    ),
     'monolog/monolog' => 
     array (
       'pretty_version' => '1.25.3',
@@ -82,15 +73,6 @@
       array (
       ),
       'reference' => '994ecccd8f3283ecf5ac33254543eb0ac946d525',
-    ),
-    'phpseclib/phpseclib' => 
-    array (
-      'pretty_version' => '2.0.29',
-      'version' => '2.0.29.0',
-      'aliases' => 
-      array (
-      ),
-      'reference' => '497856a8d997f640b4a516062f84228a772a48a8',
     ),
     'prestashop/decimal' => 
     array (
@@ -119,15 +101,6 @@
       ),
       'reference' => '8a64bd83c71fdb077fbd05fbf2677b16ec2d8e53',
     ),
-    'prestashop/prestashop-accounts-auth' => 
-    array (
-      'pretty_version' => '2.1.9',
-      'version' => '2.1.9.0',
-      'aliases' => 
-      array (
-      ),
-      'reference' => 'd569d6f5e7aeb510a7dc8ce521595dfe4087bbc7',
-    ),
     'prestashop/ps_checkout' => 
     array (
       'pretty_version' => 'dev-master',
@@ -135,7 +108,7 @@
       'aliases' => 
       array (
       ),
-      'reference' => '1c53ad38d94cfec81a2bbf16b2c46c27857af474',
+      'reference' => '4d90d8f56ece3c12a37ec935b18149b95335fc24',
     ),
     'psr/cache' => 
     array (
@@ -270,15 +243,6 @@
       array (
       ),
       'reference' => '4199685e602129feb82b14279e774af05a4f5dc2',
-    ),
-    'symfony/dotenv' => 
-    array (
-      'pretty_version' => 'v3.4.47',
-      'version' => '3.4.47.0',
-      'aliases' => 
-      array (
-      ),
-      'reference' => '1022723ac4f56b001d99691d96c6025dbf1404f1',
     ),
     'symfony/expression-language' => 
     array (
